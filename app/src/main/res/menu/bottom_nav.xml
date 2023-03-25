@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/fragmentHomeScreen"
+        android:icon="@drawable/home"
+        android:title="@string/home" />
+
+    <item
+
+        android:icon="@drawable/shortsicon"
+        app:iconTint="@color/black"
+        android:title="@string/shorts" />
+
+
+    <item
+
+        android:icon="@drawable/publishicon"
+        app:iconTint="@color/black"
+        android:title="" />
+
+    <item
+
+        android:icon="@drawable/subscriptionsicon"
+        android:title="@string/subscription" />
+
+    <item
+
+        android:icon="@drawable/libraryicon"
+        android:title="@string/library" />
+</menu>

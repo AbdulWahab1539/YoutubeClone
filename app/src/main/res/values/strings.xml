@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Youtube Clone Starter</string>
+    <string name="todo">TODO</string>
+    <string name="send_feedback">SEND FEEDBACK</string>
+    <string name="new_to_you">New to you</string>
+    <string name="live">Live</string>
+    <string name="recently_viewed">Recently Viewed</string>
+    <string name="fried_rice">Fried Rice</string>
+    <string name="diy">DIY</string>
+    <string name="comedy">Comedy</string>
+    <string name="cooking">Cooking</string>
+    <string name="computer_programming">Computer Programming</string>
+    <string name="all">All</string>
+    <string name="explore">Explore</string>
+    <string name="youtube">YouTube</string>
+    <string name="home">Home</string>
+    <string name="shorts">Shorts</string>
+    <string name="subscription">Subscription</string>
+    <string name="library">Library</string>
+</resources>
